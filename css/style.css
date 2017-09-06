@@ -1,0 +1,120 @@
+/*Header Section*/
+.header {
+    background-color: #000;
+    overflow: hidden;
+
+}
+
+.header h2 {
+    color: #fff;
+    margin-bottom: 10%;
+}
+
+/* Seach Bar Section*/
+ /* .search .box .container-1 input[type=text]{
+    width: 100%;
+    font-size: 30px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+
+}  */
+.search .container-1{
+  width: 100%;
+   vertical-align: middle; 
+   white-space: nowrap; 
+  position: relative;
+  
+}
+
+.search .container-1 input#search{
+  width: 300px;
+  height: 50px;
+  background: #fff;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: #63717f;
+  padding-left: 45px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  font-size: 30px;
+  width: 100%;
+  margin-top: 12px;
+  margin-left: 20px;
+  border-bottom: 1px solid #63717f;
+  
+}
+
+.container-1 .icon{
+  position: absolute;
+  top: 50%;
+  margin-left: 17px;
+  margin-top: 5px;
+  z-index: 1;
+  color: #63717f;
+  font-size: 40px;
+}
+
+/* Rank Section */
+.rank h1 {
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: 10%;
+    margin-left: 4%;
+}
+
+/*News Slider Section*/
+
+.news-slider{
+    border-bottom: 1px solid #63717f;
+    
+}
+
+.news-slider img {
+    width: 100%;
+}
+
+/* Top  Influencer Section*/
+.top-influencers .row-margin {
+    margin-bottom: 5%;
+}
+
+.top-influencers img {
+    width: 120px;
+    height:120px;
+    border-radius: 50%;
+    float: left;
+    
+    
+    
+    
+}
+
+
+.top-influencers .border-bottom {
+    border-bottom: 1px solid #63717f;
+}
+
+.top-influencers h3 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.top-influencers .influencer-heading {
+    margin-top:7%;
+    margin-bottom: 7%;
+}
+
+.top-influencers .second {
+    margin-left: 40%;
+}
+
+.top-influencers .name-header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.top-influencers .number-header {
+    font-size: 30px;
+}
